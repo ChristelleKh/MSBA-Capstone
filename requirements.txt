@@ -1,6 +1,6 @@
 streamlit>=1.36
-pandas>=2.2.2
+pandas>=2.2
 numpy>=1.26
-plotly>=5.22
-statsmodels>=0.14
-scikit-learn>=1.4
+openpyxl>=3.1   # <-- fixes the ImportError for read_excel
+plotly>=5.22    # for choropleth map
+country_converter>=1.2  # robust ISO code mapping for the map
