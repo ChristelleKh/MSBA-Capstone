@@ -4,7 +4,8 @@ numpy>=1.26
 openpyxl>=3.1
 plotly>=5.22
 country_converter>=1.2
-statsmodels>=0.14
-scipy>=1.11
-requests>=2.32
+statsmodels>=0.13
+pyarrow>=15
+requests>=2.31
+
 
