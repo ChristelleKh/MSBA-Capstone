@@ -16,7 +16,7 @@ from statsmodels.tsa.arima.model import ARIMA
 # -----------------------------------------------------------------------------
 RAW_BASE = st.secrets.get(
     "RAW_BASE",
-    "https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/<YOUR_BRANCH>/",  # <-- CHANGE ME
+    "https://raw.githubusercontent.com/ChristelleKh/MSBA-Capstone/main/",  # <-- CHANGE ME
 )
 
 # File names exactly as you told me
