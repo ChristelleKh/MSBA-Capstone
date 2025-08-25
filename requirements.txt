@@ -1,13 +1,9 @@
 streamlit>=1.36
 pandas>=2.2
-numpy>=1.26
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.4.2
+statsmodels==0.14.2
 openpyxl>=3.1
 plotly>=5.22
-country_converter>=1.2
-statsmodels>=0.13
-pyarrow>=15
-scipy>=1.11
 requests>=2.32
-scikit-learn>=1.5
-
-
